@@ -1,4 +1,4 @@
-@servers(['production' => ['root@serve-ip-address']])
+@servers(['production' => ['root@8.219.208.17']])
  
 @setup
     $repo = 'https://github.com/jhonoryza/tutorial-envoy.git';
