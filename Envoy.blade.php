@@ -44,4 +44,6 @@
     cd {{ $deployment }}
     
     ln -nfs {{ $deployment }} {{ $serve }}
+
+    chown -R www-data: /var/www
 @endtask
