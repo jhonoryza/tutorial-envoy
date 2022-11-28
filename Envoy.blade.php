@@ -46,4 +46,8 @@
     ln -nfs {{ $deployment }} {{ $serve }}
 
     chown -R www-data: /var/www
+
+    systemctl restart php8.0-fpm
+
+    systemctl restart nginx
 @endtask
