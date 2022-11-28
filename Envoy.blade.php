@@ -1,7 +1,7 @@
 @servers(['production' => ['root@serve-ip-address']])
  
 @setup
-    $repo = 'https://github.com/jhonoryza/try-envoy.git';
+    $repo = 'https://github.com/jhonoryza/tutorial-envoy.git';
     $appDir = '/var/www';
     $branch = 'master';
 
