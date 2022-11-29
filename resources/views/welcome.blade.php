@@ -46,7 +46,7 @@
                 </div>
 
                 <div>
-                    <h2>Tutorial Laravel Envoy Updated ke 2</h2>
+                    <h2>Tutorial Laravel Envoy Menggunakan Github Action</h2>
                 </div>
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
